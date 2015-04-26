@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Unminifier",
+		"CSS3",
+		"DustBuster",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"Jade",
+		"jQuery",
+		"JSHint",
+		"JSHint Gutter",
+		"JSLint",
+		"LiveStyle",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SublimeLinter",
+		"SummitLinter",
+		"Syntax Highlighting for Sass",
+		"Theme - Midnight",
+		"Theme - Night",
+		"Theme - Nil",
+		"Theme - Numix",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}

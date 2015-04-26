@@ -1,21 +1,21 @@
 {
-  "bold_folder_labels": true,
-  "color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
-  "colored_folder_glyphs": true,
-  "disable_colored_folder_labels": true,
-  "disable_colored_group_labels": true,
-  "font_face": "Input",
-  "font_size": 16,
-  "ignored_packages":
-  [
-    "Vintage",
-    "JSLint"
-  ],
-  "save_on_focus_lost": true,
-  "sidebar_folders": true,
-  "tab_size": 2,
-  "theme": "Nil.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "word_wrap": true,
-  "wrap_width": 70
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"colored_folder_glyphs": true,
+	"disable_colored_folder_labels": true,
+	"disable_colored_group_labels": true,
+	"font_face": "Input",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage",
+		"JSLint"
+	],
+	"save_on_focus_lost": true,
+	"sidebar_folders": true,
+	"tab_size": 2,
+	"theme": "Nil.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 70
 }
