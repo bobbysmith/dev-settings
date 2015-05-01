@@ -9,3 +9,6 @@ These are the themes and preferences I'm using for Sublime Text 3.
 
 ### Packages
 >BracketHighlighter, Color Highlighter, Colorsublime, CSS Unminifier, CSS3, DustBuster, EditorConfig, EJS, Emmet, flatland, GitGutter, HTML5, Jade, jQuery, JSHint, JSHint Gutter, LiveStyle, Package Control, PyV8, Sass, SASS Snippets, SCSS, SublimeLinter, Syntax Highlighting for Sass, Theme - Nil, Theme - Soda
+
+### Iterm
++ <a href="https://github.com/effkay/iTerm-argonaut">Argonaut color theme</a>
