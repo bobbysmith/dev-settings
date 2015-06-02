@@ -1,4 +1,4 @@
-# Sublime Text 3 Preferences
+# Sublime Text 3 & iTerm Preferences
 ---
 These are the themes and preferences I'm using for Sublime Text 3.
 
