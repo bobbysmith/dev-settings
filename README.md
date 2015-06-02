@@ -14,3 +14,4 @@ Bring up the Command Palette, choose 'Package Control: Advanced Install Package'
 
 ### Iterm
 + <a href="https://github.com/effkay/iTerm-argonaut">Argonaut color theme</a>
++ <a href="https://github.com/nathco/Office-Code-Pro">Office Code Pro Font</a>
