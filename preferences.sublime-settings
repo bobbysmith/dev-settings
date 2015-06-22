@@ -5,14 +5,20 @@
 	"disable_colored_folder_labels": true,
 	"disable_colored_group_labels": true,
 	"font_face": "Input",
-	"font_size": 16,
+	// "font_options": ["gray_antialias"],
+	"font_size": 17,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"JSLint"
+		"SublimeLinter-contrib-eslint",
+		"JSLint",
+		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"save_on_focus_lost": true,
 	"sidebar_folders": true,
+	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
