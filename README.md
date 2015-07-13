@@ -12,7 +12,7 @@ or
 ### Packages
 Bring up the Command Palette, choose 'Package Control: Advanced Install Package' & enter a comma-separated list of package names:
 
->BracketHighlighter, Color Highlighter, Colorsublime, CSS Unminifier, CSS3, DustBuster, EditorConfig, EJS, Emmet, flatland, GitGutter, HTML-CSS-JS Prettify, HTML5, Jade, jQuery, JSHint, JSHint Gutter, LiveStyle, Package Control, PyV8, Sass, SASS Snippets, SCSS, SublimeLinter, Syntax Highlighting for Sass, Theme - Midnight, Theme - Nil, Theme - Soda, TrailingSpaces
+>BracketHighlighter, Color Highlighter, Colorsublime, CSS Unminifier, CSS3, DustBuster, EditorConfig, EJS, Emmet, flatland, GitGutter, HTML-CSS-JS Prettify, HTML5, Jade, jQuery, JSHint, JSHint Gutter, LiveStyle, Package Control, PyV8, Sass, SASS Snippets, SCSS, SublimeLinter, Swift, Syntax Highlighting for Sass, Theme - Midnight, Theme - Nil, Theme - Soda, TrailingSpaces
 
 ### Iterm
 + <a href="https://github.com/effkay/iTerm-argonaut">Argonaut color theme</a>
